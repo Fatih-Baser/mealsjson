@@ -4,7 +4,7 @@
     "capital": "Algiers",
     "region": "Africa",
     "currency": "DZD",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/dza.png",
+    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/adana.png",
     "language": "Arabic"
   },
   {
@@ -12,7 +12,7 @@
     "capital": "Andorra Vella",
     "region": "Europe",
     "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/and.png",
+    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kofte.png",
     "language": "Catalan"
   },
   {
@@ -20,7 +20,7 @@
     "capital": "Antartica",
     "region": "Polar",
     "currency": "AUD",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/ata.png",
+    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kurufasulye.png",
     "language": "English"
   },
   {
@@ -28,7 +28,7 @@
     "capital": "Baku",
     "region": "Asia",
     "currency": "AZN",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/aze.png",
+    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/menemen.png",
     "language": "Azerbaijani"
   },
   {
@@ -36,7 +36,7 @@
     "capital": "Brussels",
     "region": "Europe",
     "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/bel.png",
+    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/mercimekcorba.png",
     "language": "French"
   },
   {
@@ -44,15 +44,7 @@
     "capital": "Brasilia",
     "region": "Americas",
     "currency": "BRL",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/bra.png",
+    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/pilav.png",
     "language": "Portuguese"
-  },
-  {
-    "name": "Turkey",
-    "capital": "Ankara",
-    "region": "Asia",
-    "currency": "TRY",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/tur.png",
-    "language": "Turkish"
   }
 ]
