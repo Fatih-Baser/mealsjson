@@ -1,50 +1,38 @@
 [
   {
-    "name": "Algeria",
-    "capital": "Algiers",
-    "region": "Africa",
-    "currency": "DZD",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/adana.png",
-    "language": "Arabic"
+    "name": "Kuru Fasulye",
+    "malzemeler": "Algiers",
+    "tarifi": "Africa",
+    "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/adana.png"
   },
   {
-    "name": "Andorra",
-    "capital": "Andorra Vella",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kofte.png",
-    "language": "Catalan"
+   "name": "Kuru Fasulye",
+    "malzemeler": "Algiers",
+    "tarifi": "Africa",
+    "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kofte.png",
   },
   {
-    "name": "Antartica",
-    "capital": "Antartica",
-    "region": "Polar",
-    "currency": "AUD",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kurufasulye.png",
-    "language": "English"
+    "name": "Kuru Fasulye",
+    "malzemeler": "Algiers",
+    "tarifi": "Africa",
+    "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kurufasulye.png",
   },
   {
-    "name": "Azerbaijan",
-    "capital": "Baku",
-    "region": "Asia",
-    "currency": "AZN",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/menemen.png",
-    "language": "Azerbaijani"
+    "name": "Kuru Fasulye",
+    "malzemeler": "Algiers",
+    "tarifi": "Africa",
+    "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/menemen.png",
   },
   {
-    "name": "Belgium",
-    "capital": "Brussels",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/mercimekcorba.png",
-    "language": "French"
+    "name": "Kuru Fasulye",
+    "malzemeler": "Algiers",
+    "tarifi": "Africa",
+    "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/mercimekcorba.png",
   },
   {
-    "name": "Brazil",
-    "capital": "Brasilia",
-    "region": "Americas",
-    "currency": "BRL",
-    "flag": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/pilav.png",
-    "language": "Portuguese"
+    "name": "Kuru Fasulye",
+    "malzemeler": "Algiers",
+    "tarifi": "Africa",
+    "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/pilav.png",
   }
 ]
