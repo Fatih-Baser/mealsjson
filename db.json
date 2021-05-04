@@ -1,25 +1,25 @@
 [
   {
     "name": "Kuru Fasulye",
-    "malzemeler": "2 su bardağı kuru fasulye,5 dilim pastırma,3 soğan,2 domates,2 sivri biber,3 çorba kaşığı sıvıyağ,1 çorba kaşığı domates salçası,Tuz,Karabiber",
+    "malzemeler": "2 su bardağı kuru fasulye \n 5 dilim pastırma \n 3 soğan \n 2 domates \n 2 sivri biber \n 3 çorba kaşığı sıvıyağ \n 1 çorba kaşığı domates salçası \n Tuz \n Karabiber",
     "tarifi": "Kuru fasulyeyi bir gece önceden ıslatın. Ertesi gün suyunu değiştirip biraz diri kalacak şekilde haşlayın ve süzün. Soğanları temizleyip kıyın.Sivri biberleri temizleyip ince doğrayın. Pastırmaların çemenlerini ayıklayıp ortadan ikiye kesin.Sıvıyağı tencerede kızdırın. Soğanları ve sivri biberleri ilave edip kavurun. Pastırmaları ekleyip bir kaç dakika daha kavurun.",
     "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kurufasulye.png"
   },
   {
    "name": "Kofte",
-    "malzemeler": "Köftesi için;200 gr kıyma \n, 2 yemek kaşığı ince bulgur \n, 1 diş rendelenmiş sarımsak \n,  İstenilen miktarda tuz",
+    "malzemeler": "Köftesi için;200 gr kıyma \n 2 yemek kaşığı ince bulgur \n 1 diş rendelenmiş sarımsak \n  İstenilen miktarda tuz",
     "tarifi": "öfteli bezelye yemeği için bir kaba kıyma alınarak üzerine ince bulgur, rendelenmiş sarımsak ve baharatları eklenerek yoğurulur.Hazırlanan köfteden misket büyüklüğünde parçalar alınarak el içinde yuvarlanır ve unlanmış bir kaba alınıp bir kaç sefer sallanarak köfteler una bulanır.",
     "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kofte.png"
   },
   {
     "name": "Adana",
-    "malzemeler": " 2 büyük domates, yarım demet taze soğan, yarım demet maydanoz, yarım çorba kaşığı biber salçası, 4 diş sarımsak, 2 adet sivri biber, 1 tatlı kaşığı nane, 1 tatlı kaşığı tuz, 1 tatlı kaşığı",
+    "malzemeler": " 2 büyük domates \n yarım demet taze soğan \n yarım demet maydanoz \n yarım çorba kaşığı biber salçası \n 4 diş sarımsak \n 2 adet sivri biber \n 1 tatlı kaşığı nane \n 1 tatlı kaşığı tuz \n 1 tatlı kaşığı",
     "tarifi": "Domates, sivri biber, taze soğan ve maydanozu çok ince bir şekilde kıyın. Kesinlikle robotta çekmeyin. Salça, tuz, nane ve pul biber iyice karıştırın salça içinde erisin.",
     "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/adana.png"
   },
   {
     "name": "menemen",
-    "malzemeler": "4 büyük domates \n, 3 sivri biber \n, 3 yemek kaşığı zeytinyağı \n, 6 yumurta \n, Tuz \n, Karabiber \n, Kırmızı pul biber",
+    "malzemeler": "4 büyük domates \n 3 sivri biber \n 3 yemek kaşığı zeytinyağı \n 6 yumurta \n Tuz \n Karabiber \n Kırmızı pul biber",
     "tarifi": "Öncelikle domateslerin kabuklarını soyun ve tavla zarı büyüklüğünde doğrayın \n .Biberlerin çekirdeklerini temizleyip yıkayın ve ince ince doğrayın. Zeytinyağını tavada ısıtın.",
     "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/menemen.png"
   },
