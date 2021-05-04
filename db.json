@@ -25,13 +25,13 @@
   },
   {
     "name": "Mercimek corbasi",
-    "malzemeler": "3 yemek kaşığıayçiçek yağı \n, 1 adetkuru soğan(iri doğranmış) \n, 1 yemek kaşığıun \n, 1 adethavuç(iri doğranmış) \n, 1 adetpatates(büyük boy, iri doğranmış) \n, 1 tatlı kaşığıtuz \n, 1 çay kaşığıkarabiber \n, 1,5 su bardağıkırmızı ya da sarı mercimek \n,6 su bardağısıcak su(1 adet et su tablet ile hazırlanmış)",
+    "malzemeler": "3 yemek kaşığıayçiçek yağı \n 1 adetkuru soğan(iri doğranmış) \n 1 yemek kaşığıun \n 1 adethavuç(iri doğranmış) \n 1 adetpatates(büyük boy, iri doğranmış) \n 1 tatlı kaşığıtuz \n 1 çay kaşığı karabiber \n 1,5 su bardağıkırmızı ya da sarı mercimek \n 6 su bardağısıcak su(1 adet et su tablet ile hazırlanmış)",
     "tarifi": "Derin bir tencereye 3 yemek kaşığı sıvı yağ ekleyin. İri doğranmış 1 adet büyük soğanı sıvı yağ ile birlikte kavurun.",
     "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/mercimekcorba.png"
   },
   {
     "name": "Pilav",
-    "malzemeler": "2 su bardağı pirinç  \n, 2,5 su bardağı sıcak su \n, 3 yemek kaşığı tereyağı \n, 1 yemek kaşığı sıvı yağ \n, Tuz",
+    "malzemeler": "2 su bardağı pirinç  \n 2,5 su bardağı sıcak su \n 3 yemek kaşığı tereyağı \n 1 yemek kaşığı sıvı yağ \n Tuz",
     "tarifi": "Pirinci bol su ile yıkayın. Uygun bir kaba alarak üzerini geçecek kadar ılık su ekleyin. Birazda tuz ilave edip karıştırın ve 15-20 dakika bekletin. Daha sonra yıkayarak suyunu süzün. Nişastası gidene kadar yıkıyoruz. Çıkan suyun berrak olması gerekiyor.",
     "resim": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/pilav.png"
   }
