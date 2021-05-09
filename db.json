@@ -34,41 +34,5 @@
     "malzemeler": "2 su bardağı pirinç  \n 2,5 su bardağı sıcak su \n 3 yemek kaşığı tereyağı \n 1 yemek kaşığı sıvı yağ \n Tuz",
     "tarifi": "Pirinci bol su ile yıkayın. Uygun bir kaba alarak üzerini geçecek kadar ılık su ekleyin. Birazda tuz ilave edip karıştırın ve 15-20 dakika bekletin. Daha sonra yıkayarak suyunu süzün. Nişastası gidene kadar yıkıyoruz. Çıkan suyun berrak olması gerekiyor.",
     "image": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/pilav.png"
-  },
-    {
-    "title": "Kuru Fasulye 2",
-    "malzemeler": "2 su bardağı kuru fasulye \n 5 dilim pastırma \n 3 soğan \n 2 domates \n 2 sivri biber \n 3 çorba kaşığı sıvıyağ \n 1 çorba kaşığı domates salçası \n Tuz \n Karabiber",
-    "tarifi": "Kuru fasulyeyi bir gece önceden ıslatın. Ertesi gün suyunu değiştirip biraz diri kalacak şekilde haşlayın ve süzün. Soğanları temizleyip kıyın.Sivri biberleri temizleyip ince doğrayın. Pastırmaların çemenlerini ayıklayıp ortadan ikiye kesin.Sıvıyağı tencerede kızdırın. Soğanları ve sivri biberleri ilave edip kavurun. Pastırmaları ekleyip bir kaç dakika daha kavurun.",
-    "image": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kurufasulye.png"
-  },
-  {
-   "title": "Kofte 2 ",
-    "malzemeler": "Köftesi için;200 gr kıyma \n 2 yemek kaşığı ince bulgur \n 1 diş rendelenmiş sarımsak \n  İstenilen miktarda tuz",
-    "tarifi": "öfteli bezelye yemeği için bir kaba kıyma alınarak üzerine ince bulgur, rendelenmiş sarımsak ve baharatları eklenerek yoğurulur.Hazırlanan köfteden misket büyüklüğünde parçalar alınarak el içinde yuvarlanır ve unlanmış bir kaba alınıp bir kaç sefer sallanarak köfteler una bulanır.",
-    "image": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/kofte.png"
-  },
-  {
-    "title": "Adana 2" ,
-    "malzemeler": " 2 büyük domates \n yarım demet taze soğan \n yarım demet maydanoz \n yarım çorba kaşığı biber salçası \n 4 diş sarımsak \n 2 adet sivri biber \n 1 tatlı kaşığı nane \n 1 tatlı kaşığı tuz \n 1 tatlı kaşığı",
-    "tarifi": "Domates, sivri biber, taze soğan ve maydanozu çok ince bir şekilde kıyın. Kesinlikle robotta çekmeyin. Salça, tuz, nane ve pul biber iyice karıştırın salça içinde erisin.",
-    "image": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/adana.png"
-  },
-  {
-    "title": "menemen 2 ",
-    "malzemeler": "4 büyük domates \n 3 sivri biber \n 3 yemek kaşığı zeytinyağı \n 6 yumurta \n Tuz \n Karabiber \n Kırmızı pul biber",
-    "tarifi": "Öncelikle domateslerin kabuklarını soyun ve tavla zarı büyüklüğünde doğrayın \n .Biberlerin çekirdeklerini temizleyip yıkayın ve ince ince doğrayın. Zeytinyağını tavada ısıtın.",
-    "image": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/menemen.png"
-  },
-  {
-    "title": "Mercimek corbasi 2",
-    "malzemeler": "3 yemek kaşığıayçiçek yağı \n 1 adetkuru soğan(iri doğranmış) \n 1 yemek kaşığıun \n 1 adethavuç(iri doğranmış) \n 1 adetpatates(büyük boy, iri doğranmış) \n 1 tatlı kaşığıtuz \n 1 çay kaşığı karabiber \n 1,5 su bardağıkırmızı ya da sarı mercimek \n 6 su bardağısıcak su(1 adet et su tablet ile hazırlanmış)",
-    "tarifi": "Derin bir tencereye 3 yemek kaşığı sıvı yağ ekleyin. İri doğranmış 1 adet büyük soğanı sıvı yağ ile birlikte kavurun.",
-    "image": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/mercimekcorba.png"
-  },
-  {
-    "title": "Pilav 2 ",
-    "malzemeler": "2 su bardağı pirinç  \n 2,5 su bardağı sıcak su \n 3 yemek kaşığı tereyağı \n 1 yemek kaşığı sıvı yağ \n Tuz",
-    "tarifi": "Pirinci bol su ile yıkayın. Uygun bir kaba alarak üzerini geçecek kadar ılık su ekleyin. Birazda tuz ilave edip karıştırın ve 15-20 dakika bekletin. Daha sonra yıkayarak suyunu süzün. Nişastası gidene kadar yıkıyoruz. Çıkan suyun berrak olması gerekiyor.",
-    "image": "https://raw.githubusercontent.com/Fatih-Baser/mealsjson/master/pilav.png"
   }
 ]
